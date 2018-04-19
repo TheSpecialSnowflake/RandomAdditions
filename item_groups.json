@@ -1,0 +1,9 @@
+[
+  {
+    "id": "mil_surplus",
+    "type": "item_group",
+    "items": [
+      { "item": "m157z", "prob":10 }
+    ]
+  }
+ ]
