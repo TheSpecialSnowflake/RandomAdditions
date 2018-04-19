@@ -1,0 +1,35 @@
+[
+{
+  "type" : "recipe",
+  "result": "shotgun_fist",
+  "category": "CC_WEAPON",
+  "subcategory": "CSC_WEAPON_BASHING",
+  "skill_used": "fabrication",
+  "skills_required": [ "fabrication", 3 ],
+  "difficulty": 5,
+  "time": 17000,
+  "reversible": false,
+  "autolearn": false,
+  "tools": [
+    [
+      [ "toolset", 50 ],
+      [ "small_repairkit", 70 ],
+      [ "large_repairkit", 60 ],
+	  [ "oxy_torch", 15 ],
+      [ "welder", 30 ],
+      [ "welder_crude", 75 ]
+    ]
+  ],
+  "components": [
+    [
+      [ "wire", 1 ]
+    ],
+	[
+	  [ "gloves_survivor", 1 ]
+	],
+	[
+	  [ "masterkey", 1 ]
+	]
+  ]
+}
+]
