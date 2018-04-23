@@ -46,6 +46,27 @@
     "flags": [ "NEVER_JAMS" ]
   },
   {
+    "id": "judgerevolver",
+    "copy-from": "pistol_revolver",
+    "type": "GUN",
+    "name": "Taurus Judge",
+    "name_plural": "Taurus Judge",
+    "description": "The Taurus Judge is a 6 shot revolver chambered in .454 Casull. It has the ability to also shoot .410 Shotshells and .45 Long Colt rounds.",
+    "weight": 2100,
+    "volume": 3,
+    "price": 64100,
+    "to_hit": -2,
+    "bashing": 12,
+    "material": [ "steel", "plastic" ],
+    "symbol": "(",
+    "color": "light_gray",
+    "ammo": "454",
+    "dispersion": 340,
+    "durability": 8,
+    "clip_size": 6,
+    "valid_mod_locations": [ [ "accessories", 2 ], [ "grip", 1 ], [ "mechanism", 4 ], [ "rail", 1 ], [ "sights", 1 ] ]
+  },
+  {
     "id": "shockgauntlet",
     "type": "TOOL",
     "category": "weapons",
